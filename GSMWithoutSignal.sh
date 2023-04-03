@@ -44,7 +44,7 @@ $folderBin/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p
 $folderBin/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 'launchctl stop com.apple.mobileactivationd';
 $folderBin/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 'launchctl start com.apple.mobileactivationd';
 sleep 5;
-$folderBin/ideviceactivation activate -d -s https://gsmadjaa.x10.bz/server/Activate.php;
+$folderBin/ideviceactivation activate -d -s PHP NOT FREE IF YOU NEED BY CONTACT ME ON THE LINK GIVEN;
 $folderBin/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 '/usr/libexec/substrate';
 $folderBin/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 '/usr/libexec/substrated';
 $folderBin/idevicepair pair;
