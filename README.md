@@ -1,11 +1,25 @@
 # Bypass-idevice-ios12-14.8-
 Free bash script script to bypass activation lock device running ios12-14.8
 
-files are uploading 
-
 
 make sure you jailbreak your device 
 if you are using windows don t worry download  gitbash.exe from google and try free
 
+SUPPORTED SYSTEMS:
+ MACOS
+ WINDOWS (GITBASH)
+ USE LIBIMOBILE DEVICE FROM MY REPOSTRY 
+
 credits to (@gsmadjaa)
 https://t.me/gsmadjaa05 contact for support on telegram
+
+
+
+SUPPORT ME IN MY WORK BY MAKING A DONATION :
+
+PAYMENT METHODE : USDT TRC20 
+TT8iA23VWtD4xBMCwTX9VrCfQVaouapPRN
+
+
+
+
