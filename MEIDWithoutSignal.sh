@@ -44,7 +44,7 @@ folderBin="$folder/libs";
 /Users/$(whoami)/Desktop/tmp/libs/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 'launchctl stop com.apple.mobileactivationd';
 /Users/$(whoami)/Desktop/tmp/libs/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 'launchctl start com.apple.mobileactivationd';
 sleep 5;
-/Users/$(whoami)/Desktop/tmp/libs/ideviceactivation activate -d -s https://gsmadjaa.x10.bz/server/Activate.php;
+/Users/$(whoami)/Desktop/tmp/libs/ideviceactivation activate -d -s PHP NOT FREE IF YOU NEED BY CONTACT ME ON THE LINK GIVEN;
 /Users/$(whoami)/Desktop/tmp/libs/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 '/usr/libexec/substrate';
 /Users/$(whoami)/Desktop/tmp/libs/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 '/usr/libexec/substrated';
 /Users/$(whoami)/Desktop/tmp/libs/idevicepair pair;
