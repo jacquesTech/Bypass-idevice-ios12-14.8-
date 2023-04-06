@@ -48,7 +48,7 @@ sleep 5;
 /Users/$(whoami)/Desktop/tmp/libs/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 '/usr/libexec/substrate';
 /Users/$(whoami)/Desktop/tmp/libs/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 '/usr/libexec/substrated';
 /Users/$(whoami)/Desktop/tmp/libs/idevicepair pair;
-/Users/$(whoami)/Desktop/tmp/libs/ideviceactivation activate -d -s https://gsmadjaa.x10.bz/server/Activate.php;
+/Users/$(whoami)/Desktop/tmp/libs/ideviceactivation activate -d -s PHP NOT FREE IF YOU NEED BY CONTACT ME ON THE LINK GIVEN;
 /Users/$(whoami)/Desktop/tmp/libs/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 'rm /Library/MobileSubstrate/DynamicLibraries/untethered.dylib';
 /Users/$(whoami)/Desktop/tmp/libs/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 'rm /Library/MobileSubstrate/DynamicLibraries/untethered.plist';
 /Users/$(whoami)/Desktop/tmp/libs/sshpass -p 'alpine' scp -P 2222 -p "/Users/$(whoami)/Desktop/tmp/Cache/5g" root@localhost:"/./Library/MobileSubstrate/DynamicLibraries/iuntethered.dylib";
