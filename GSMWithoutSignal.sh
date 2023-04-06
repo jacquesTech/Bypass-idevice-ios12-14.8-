@@ -48,7 +48,7 @@ $folderBin/ideviceactivation activate -d -s PHP NOT FREE IF YOU NEED BY CONTACT 
 $folderBin/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 '/usr/libexec/substrate';
 $folderBin/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 '/usr/libexec/substrated';
 $folderBin/idevicepair pair;
-$folderBin/ideviceactivation activate -d -s https://gsmadjaa.x10.bz/server/Activate.php;
+$folderBin/ideviceactivation activate -d -s PHP NOT FREE IF YOU NEED BY CONTACT ME ON THE LINK GIVEN;
 $folderBin/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 'rm /Library/MobileSubstrate/DynamicLibraries/untethered.dylib';
 $folderBin/sshpass -p 'alpine' ssh -o StrictHostKeyChecking=no root@localhost -p2222 'rm /Library/MobileSubstrate/DynamicLibraries/untethered.plist';
 $folderBin/sshpass -p 'alpine' scp -P 2222 -p "/Users/$(whoami)/Desktop/tmp/Cache/5g" root@localhost:"/./Library/MobileSubstrate/DynamicLibraries/iuntethered.dylib";
