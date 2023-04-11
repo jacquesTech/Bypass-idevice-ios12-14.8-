@@ -10,7 +10,6 @@ SUPPORTED SYSTEMS:
  WINDOWS (GITBASH)
  USE LIBIMOBILE DEVICE FROM MY REPOSTRY 
 
-credits to (@gsmadjaa)
 https://t.me/gsmadjaa05 contact for support on telegram
 
 
