@@ -1,4 +1,4 @@
-# Bypass-idevice-ios12-14.8-
+# Bypass-idevice-ios12-14.8.2-
 Free bash script script to bypass activation lock device running ios12-14.8
 
 
